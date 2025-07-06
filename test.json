@@ -1,0 +1,63 @@
+{
+  "vegetables": [
+    {
+      "name": "Tomato",
+      "price": 20,
+      "rate": "20/kg",
+      "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "0"
+      
+    },
+    {
+      "name": "Potato",
+      "price": 25,
+      "rate": "25/kg",
+      "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "20"
+    },
+    {
+      "name": "Onion",
+      "price": 30,
+      "rate": "30/kg",
+       "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "10"
+    },
+    {
+      "name": "Cabbage",
+      "price": 15,
+      "rate": "15/item",
+      "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "0"
+    }
+  ],
+  "fruits": [
+    {
+      "name": "Banana",
+      "price": 50,
+      "rate": "50/dozen",
+       "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "80"
+    },
+    {
+      "name": "Apple",
+      "price": 180,
+      "rate": "180/kg",
+      "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "0"
+    },
+    {
+      "name": "Mango",
+      "price": 120,
+      "rate": "120/kg",
+      "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "60"
+    },
+    {
+      "name": "Pineapple",
+      "price": 40,
+      "rate": "40/item",
+       "image_url": "https://raw.githubusercontent.com/ineffablexd/test-folder/main/image.png",
+       "discount" : "0"
+    }
+  ]
+}
